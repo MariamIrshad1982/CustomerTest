@@ -1,0 +1,10 @@
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\bin\Debug\CustomerModel.dll.config
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\bin\Debug\CustomerModel.dll
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\bin\Debug\CustomerModel.pdb
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\bin\Debug\EntityFramework.dll
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\bin\Debug\EntityFramework.xml
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\obj\Debug\CustomerModel.csprojResolveAssemblyReference.cache
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\obj\Debug\CustomerModel.dll
+C:\Users\mirsh\OneDrive\Documents\Visual Studio 2015\Projects\TestProject\CustomerModel\obj\Debug\CustomerModel.pdb
